@@ -1,6 +1,6 @@
 # IIT Machine Learning and Data Science Projects
 
-A comprehensive collection of machine learning and data science projects, tutorials, and datasets for learning and practical implementation of ML/DS concepts.
+A comprehensive collection of machine learning and data science projects, tutorials, and datasets for learning and practical implementation of ML/DS concepts I learned in campus.
 
 ## 📋 Overview
 
